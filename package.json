@@ -1,0 +1,16 @@
+{
+    "name":"calculator",
+    "version": "1.0.0",
+    "description": "my first node and express server bmi calculater",
+    "main": "scrver.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node scrver.js"
+
+    },
+    "author": "khushi Maheshwari",
+    "license": "ISC",
+    "dependencies": {
+        "express":"^4.17.1"
+    }
+}
